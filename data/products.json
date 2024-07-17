@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "홍천참숯 참나무장작 9KG",
+      "provider": "컬리",
+      "price": 9900,
+      "image": "/images/image001.jpg"
+    },
+    {
+      "id": 2,
+      "name": "휴대용 가스 미니 난로",
+      "provider": "컬리",
+      "price": 149000,
+      "image": "/images/image002.jpg"
+    },
+    {
+      "id": 3,
+      "name": "코지 리클라이너 체어(단품)",
+      "provider": "(주) 호원플래닛",
+      "price": 89000,
+      "image": "/images/image003.jpg"
+    },
+    {
+      "id": 4,
+      "name": "패밀리 투인원 C5 침낭",
+      "provider": "컬리",
+      "price": 107000,
+      "image": "/images/image004.jpg"
+    },
+    {
+      "id": 5,
+      "name": "가보리 캠핑웨건",
+      "provider": "(주)이고진",
+      "price": 72000,
+      "image": "/images/image005.jpg"
+    },
+    {
+      "id": 6,
+      "name": "큐빅 KGH-2010 소형 가스 히터",
+      "provider": "컬리",
+      "price": 75000,
+      "image": "/images/image006.jpg"
+    },
+    {
+      "id": 7,
+      "name": "스머그 V2 머그워머 3종 (택1)",
+      "provider": "컬리",
+      "price": 59000,
+      "image": "/images/image007.jpg"
+    },
+    {
+      "id": 8,
+      "name": "슬림릴선 15M (단품)",
+      "provider": "(주) 호원플래닛",
+      "price": 48000,
+      "image": "/images/image008.jpg"
+    }
+  ]
+}
